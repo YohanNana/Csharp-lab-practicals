@@ -1,0 +1,3 @@
+C:\Visual Studio\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.AssemblyReference.cache
+C:\Visual Studio\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.CoreCompileInputs.cache
